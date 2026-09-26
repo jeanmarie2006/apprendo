@@ -3,6 +3,9 @@
 Plateforme permettant à des formateurs indépendants de créer et vendre des cours en ligne, et aux apprenants de s’inscrire
 et de suivre leur progression. Projet n°8 du cahier des charges « 9 projets fictifs ».
 
+**🔗 Démo en ligne :** https://mes-apps.wuaze.com/apprendo/ — **📲 Installer l’application** (mobile, tablette, ordinateur) : https://mes-apps.wuaze.com/apprendo/#/installer
+
+
 ![Accueil](docs/accueil.png)
 ![Catalogue](docs/catalogue.png)
 ![Lecteur de cours](docs/lecteur.png)
